@@ -1,0 +1,59 @@
+<div class="container">
+  <h3>navbar navigation</h3>
+  <p>An inverted navbar is black instead of gray.</p>
+</div>
+
+<div class="container">
+  <div class="row">
+  <div class=""col-sm-4 nopadding">
+    
+  <img src="img/image1.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+  <div class="caption">
+          <p>This is wider card with supporting text</p>
+        </div>
+      </div>
+</div>
+<div class="container">
+  <div class="col-sm-8 right-image">
+  <img src="img/image2.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+  <div class="caption">
+          <p>This is wider card with supporting text</p>
+        </div>
+      </div>
+</div>
+<div class="container">
+  <div class="col-sm-4 nopadding">
+  <img src="img/image1.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+  <div class="caption">
+          <p>This is wider card with supporting text</p>
+        </div>
+      </div>
+    </div>
+
+<div class="container">
+  <div class="row">
+  <div class="column">
+    
+  <img src="img/image1.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+  <div class="caption">
+          <p>This is wider card with supporting text</p>
+        </div>
+      </div>
+</div>
+<div class="container">
+  <div class="column">
+  <img src="img/image2.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+  <div class="caption">
+          <p>This is wider card with supporting text</p>
+        </div>
+      </div>
+</div>
+<div class="container">
+  <div class="column">
+  <img src="img/image1.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+  <div class="caption">
+          <p>This is wider card with supporting text</p>
+        </div>
+      </div>
+    </div>
+</div>
